@@ -61,17 +61,8 @@
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<zhiqinkuang>&show_icons=true&theme=default)
-
----
 
 ## 📫 Contact
 
 - 📧 Email: **zhiqinkuang@gmail.com**  
-- 🌐 Blog / Technical Notes (if available)
-
----
-
-⭐️ Feel free to explore my repositories or reach out for collaboration on backend and full-stack projects.
