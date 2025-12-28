@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <Your Name | GitHub ID>
+# 👋 Hi, I'm  ZHIQIN KUANG
 
 🚀 Go Backend Engineer | 📱 Mobile Full-Stack Developer  
 🛠 Focused on scalable backend services and end-to-end product delivery
